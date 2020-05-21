@@ -1,3 +1,0 @@
-# guessinggame
-Unix Coursera
-test
