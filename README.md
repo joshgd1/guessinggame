@@ -1,8 +1,5 @@
-all : guessinggame.sh
-	touch README.md
-	echo "Title Guessing Game " > README.md
-	echo "Date makefile was ran:" >> README.md
-	date >> README.md
-	echo " " >> README.md
-	echo "Number of lines file guessinggame.sh:" >> README.md
-	cat guessinggame.sh | wc -l >> README.md
+Title: Guessing Game
+Date makefile was ran: Fri Apr 22 21:32 
+Number of lines file guessinggame.sh: 19
+
+
